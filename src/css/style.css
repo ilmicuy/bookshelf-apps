@@ -220,7 +220,7 @@ p {
   width: 40px;
   height: 40px;
 
-  background: url("../public/undo-outline.svg");
+  background: url("../../public/undo-outline.svg");
   background-size: contain;
   margin-left: auto;
   cursor: pointer;
@@ -228,7 +228,7 @@ p {
 }
 
 .undo-button:hover {
-  background: url("../public/undo-fill.svg");
+  background: url("../../public/undo-fill.svg");
   background-size: contain;
 }
 
@@ -236,7 +236,7 @@ p {
   width: 40px;
   height: 40px;
 
-  background: url("../public/trash-outline.svg");
+  background: url("../../public/trash-outline.svg");
   background-size: contain;
   margin-left: 16px;
   cursor: pointer;
@@ -244,7 +244,7 @@ p {
 }
 
 .trash-button:hover {
-  background: url("../public/trash-fill.svg");
+  background: url("../../public/trash-fill.svg");
   background-size: contain;
 }
 
@@ -252,7 +252,7 @@ p {
   width: 40px;
   height: 40px;
 
-  background: url("../public/edit-fill.svg");
+  background: url("../../public/edit-fill.svg");
   background-size: contain;
   margin-left: 16px;
   cursor: pointer;
@@ -260,7 +260,7 @@ p {
 }
 
 .edit-button:hover {
-  background: url("../public/edit-outline.svg");
+  background: url("../../public/edit-outline.svg");
   background-size: contain;
 }
 
@@ -268,7 +268,7 @@ p {
   width: 40px;
   height: 40px;
 
-  background: url("../public/check-outline.svg");
+  background: url("../../public/check-outline.svg");
   background-size: contain;
   margin-left: auto;
   cursor: pointer;
@@ -276,6 +276,6 @@ p {
 }
 
 .check-button:hover {
-  background: url("../public/check-solid.svg");
+  background: url("../../public/check-solid.svg");
   background-size: contain;
 }
